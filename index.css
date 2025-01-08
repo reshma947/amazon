@@ -1,0 +1,86 @@
+.herosection {
+    /* background-size: cover; */
+    height: 710px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.headline h1 {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+.maincontainer1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 0px;
+}
+.maincontainer2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 0px;
+}
+.maincontainer3 {
+    background-color: white;
+    margin: 50px 50px;
+}
+
+.maincontainer4 {
+    background-color: white;
+    margin: 50px 50px;
+}
+
+.maincontainer5 {
+    background-color: white;
+    margin: 50px 50px;
+}
+
+.maincontainer6 {
+    background-color: white;
+    margin: 50px 50px;
+}
+
+.main {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 400px;
+}
+
+.card {
+    background-color:blueviolet;
+    height: 100px;
+    width: 150px;
+    margin: 20px 20px;
+}
+
+.cardimg {
+    height:100px;
+    width: 150px;
+}
+
+.cardimg img {
+    height: 100%;
+    width: 100%;
+}
+
+.card1 {
+    /* height: 200px; */
+    /* width: 150px; */
+    background-color: white;
+    margin: 20px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.headline2 h1 {
+    font-size: 25px;
+    margin: 20px 60px;
+}
+.para {
+    color: rgb(7, 73, 99);
+}
+
